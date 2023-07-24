@@ -1,0 +1,852 @@
+[
+  {
+    "name": "Amputation Knife",
+    "image": "https://static.wikia.nocookie.net/hitman/images/d/dc/Amputation_Knife_HITMAN2021.jpeg/revision/latest?cb=20210210193643",
+    "description": "An antique amputation knife. Renaissance construction. Weighted blade. Lethal when thrown or used in close combat.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "common",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": false,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 3
+  },
+  {
+    "name": "Baseball Bat",
+    "image": "https://static.wikia.nocookie.net/hitman/images/0/04/Baseball_Bat_HITMAN2021.jpeg/revision/latest?cb=20210301054138",
+    "description": "A baseball bat. Non-Lethal. Can be used to knock an individual unconscious.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "common",
+    "capacity": "N/A",
+    "twoHanded": true,
+    "concealable": true,
+    "friskHidden": true,
+    "illegalItem": true,
+    "smuggleItem": false,
+    "tags": [
+      "non-lethal"
+    ],
+    "gearSlots": 4
+  },
+  {
+    "name": "Claw Hammer",
+    "image": "https://static.wikia.nocookie.net/hitman/images/2/28/Claw_Hammer_HITMAN2021.jpeg/revision/latest?cb=20210331031222",
+    "description": "A lightweight hammer. Can be used in melee, or thrown to knock an individual unconscious.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "common",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "non-lethal"
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "Folding Knife",
+    "image": "https://static.wikia.nocookie.net/hitman/images/1/1a/Folding_Knife_HITMAN2021.jpeg/revision/latest?cb=20210216165555",
+    "description": "A folding knife. Can be thrown or effectively used in close combat to eliminate a target.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "common",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": true,
+    "illegalItem": true,
+    "smuggleItem": false,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 3
+  },
+  {
+    "name": "ICA Combat Axe",
+    "image": "https://static.wikia.nocookie.net/hitman/images/b/bc/ICA_Combat_Axe.jpg/revision/latest?cb=20210202171645",
+    "description": "An ICA grade combat axe.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "common",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 3
+  },
+  {
+    "name": "Machete",
+    "image": "https://static.wikia.nocookie.net/hitman/images/1/19/Nne_Obara%27s_Machete_HITMAN2021.jpeg/revision/latest?cb=20210329181102",
+    "description": "A Machete",
+    "type": [
+      "melee"
+    ],
+    "rarity": "common",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": false,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 3
+  },
+  {
+    "name": "Police Baton",
+    "image": "https://static.wikia.nocookie.net/hitman/images/c/c0/Police_Baton_HITMAN2021.jpeg/revision/latest?cb=20210301052348",
+    "description": "A tonfa. Effective as a non-lethal, blunt weapon.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "common",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": true,
+    "illegalItem": false,
+    "smuggleItem": false,
+    "tags": [
+      "non-lethal"
+    ],
+    "gearSlots": 3
+  },
+  {
+    "name": "Antique Curved Knife",
+    "image": "https://static.wikia.nocookie.net/hitman/images/6/66/Antique_Curved_Knife_HITMAN2021.jpeg/revision/latest?cb=20210211004658",
+    "description": "Very old knife, but still razor sharp.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "legendary",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 1
+  },
+  {
+    "name": "Masamune",
+    "image": "https://static.wikia.nocookie.net/hitman/images/e/e1/Masamune_%28H3%29.png/revision/latest?cb=20210129102913",
+    "description": "A Japanese katana. High-strength steel blade. Lethal in all engagement scenarios.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "legendary",
+    "capacity": "N/A",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 1
+  },
+  {
+    "name": "Bat Shuriken",
+    "image": "https://static.wikia.nocookie.net/hitman/images/2/2a/Bat_Shuriken_%282021%29.png/revision/latest?cb=20210203055323",
+    "description": "A shuriken formed as a bat. Lethal when thrown.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "epic",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 1
+  },
+  {
+    "name": "Fiber Wire",
+    "image": "https://static.wikia.nocookie.net/hitman/images/0/0d/Fiber_Wire_HITMAN2021.jpeg/revision/latest?cb=20210305035123",
+    "description": "A concealable garrote. Non-metallic wire. Can be used to rapidly and silently eliminate a target and then transistion quickly to moving the corpse to a hiding location.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "epic",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": true,
+    "illegalItem": false,
+    "smuggleItem": true,
+    "tags": [
+      "fiber wire"
+    ],
+    "gearSlots": 1
+  },
+  {
+    "name": "Ice Axe",
+    "image": "https://static.wikia.nocookie.net/hitman/images/d/d3/Ice_Axe_HITMAN2021.jpeg/revision/latest?cb=20210329234647",
+    "description": "Modern climbing axe for cold environments. Sturdy enough to use as a lethal weapon.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "epic",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "Janbiya",
+    "image": "https://static.wikia.nocookie.net/hitman/images/7/7d/Janbiya_HITMAN2021.jpeg/revision/latest?cb=20210215060910",
+    "description": "A curved dagger. Ceremonial origins, likely Middle Eastern. Can be used in melee or thrown to eliminate a target.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "epic",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "Eiffel Tower Knife",
+    "image": "https://static.wikia.nocookie.net/hitman/images/0/08/Eiffel_Tower_Knife.jpg/revision/latest?cb=20230219184200",
+    "description": "A sharp knife that was sheathed inside an Eiffel Tower souvenir.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "epic",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": false,
+    "tags": [
+      ""
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "Burial Dagger",
+    "image": "https://static.wikia.nocookie.net/hitman/images/f/f0/Burial_Dagger_HITMAN2021.jpeg/revision/latest?cb=20210210155101",
+    "description": "Janus' burial dagger.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "epic",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": false,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "Katana",
+    "image": "https://static.wikia.nocookie.net/hitman/images/b/b9/Katana_HITMAN2021.jpeg/revision/latest?cb=20210220012148",
+    "description": "A Japanese-style sword. Modern, high-strength steel blade. Lethal in all engagement scenarios.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "epic",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": false,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "Spooky Bat",
+    "image": "https://static.wikia.nocookie.net/hitman/images/6/6a/Spooky_Bat.png/revision/latest?cb=20220907171148",
+    "description": "A Spooky Bat. Effective as a non-lethal, blunt weapon.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "epic",
+    "capacity": "N/A",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": false,
+    "tags": [
+      "non-lethal"
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "Shuriken",
+    "image": "https://static.wikia.nocookie.net/hitman/images/e/e9/Shuriken_HITMAN2021.jpeg/revision/latest?cb=20210312174644",
+    "description": "A throwable lethal weapon.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "rare",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 1
+  },
+  {
+    "name": "Ice Pick",
+    "image": "https://static.wikia.nocookie.net/hitman/images/1/15/Ice_Pick_HITMAN2021.jpeg/revision/latest?cb=20210402182912",
+    "description": "Sharp enough to stab through ice, this pick can be used as an effective lethal weapon.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "rare",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": true,
+    "illegalItem": false,
+    "smuggleItem": true,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 1
+  },
+  {
+    "name": "Quickdraw",
+    "image": "https://static.wikia.nocookie.net/hitman/images/f/fe/Quickdraw_HITMAN2021.jpeg/revision/latest?cb=20210411153506",
+    "description": "Climbing gear which can double as a fiber wire in tight situations.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "rare",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": true,
+    "illegalItem": false,
+    "smuggleItem": true,
+    "tags": [
+      "fiber wire"
+    ],
+    "gearSlots": 1
+  },
+  {
+    "name": "Concealable Knife",
+    "image": "https://static.wikia.nocookie.net/hitman/images/8/88/Concealable_Knife_HITMAN2021.jpeg/revision/latest?cb=20210208043029",
+    "description": "A sharp knife that can be concealed in the handle when holstered. Not detected in frisks when holstered.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "rare",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": true,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 1
+  },
+  {
+    "name": "Okinawan Tonfa",
+    "image": "https://static.wikia.nocookie.net/hitman/images/5/56/Okinawan_Tonfa_HITMAN2021.jpeg/revision/latest?cb=20210411002910",
+    "description": "A blunt weapon. Made of traditional red oak wood. Can be used in melee or thrown to knock an individual unconscious.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "rare",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "non-lethal"
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "Concealable Baton",
+    "image": "https://static.wikia.nocookie.net/hitman/images/5/5c/Concealable_Baton_HITMAN2021.jpg/revision/latest?cb=20210207015214",
+    "description": "A collapsible baton. Can be used in close combat to knock an individual unconscious. Can be smuggled through frisk zones.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "rare",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": true,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "non-lethal"
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "Mace",
+    "image": "https://static.wikia.nocookie.net/hitman/images/1/17/Mace_HITMAN2021.jpeg/revision/latest?cb=20210331222420",
+    "description": "A mace. Effective as a non-lethal, blunt weapon.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "rare",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "non-lethal"
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "Kukri Knife",
+    "image": "https://static.wikia.nocookie.net/hitman/images/2/2c/Kukri_Knife.jpg/revision/latest?cb=20210202174922",
+    "description": "An antique kukri knife recovered from India and brought to England during the late 1890s.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "rare",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "Circumcision Knife",
+    "image": "https://static.wikia.nocookie.net/hitman/images/1/15/Circumcision_Knife_HITMAN2021.jpeg/revision/latest?cb=20210216161643",
+    "description": "A circumcision knife. Small but effective in close combat, or when thrown, to eliminate a target.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "rare",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": false,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "Tanto",
+    "image": "https://static.wikia.nocookie.net/hitman/images/1/19/Tanto_%282021%29.png/revision/latest?cb=20210204092516",
+    "description": "A very sharp short blade. Used by samurais to perform seppuku.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "rare",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": true,
+    "friskHidden": false,
+    "illegalItem": false,
+    "smuggleItem": true,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "Sapper's Axe",
+    "image": "https://static.wikia.nocookie.net/hitman/images/8/8c/Sapper%27s_Axe_HITMAN2021.jpeg/revision/latest?cb=20210204172923",
+    "description": "A long handled axe. Used by Napoleonic military engineers. Lethal when thrown or used in close combat.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "rare",
+    "capacity": "N/A",
+    "twoHanded": false,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": false,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "Saber",
+    "image": "https://static.wikia.nocookie.net/hitman/images/5/55/Saber_HITMAN2021.jpeg/revision/latest?cb=20210404020845",
+    "description": "A cavalry saber. Napoleonic era. Effective when used in close combat.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "rare",
+    "capacity": "N/A",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "lethal"
+    ],
+    "gearSlots": 3
+  },
+  {
+    "name": "HF Championship Bat",
+    "image": "https://static.wikia.nocookie.net/hitman/images/d/de/HF_Championship_Bat_HITMAN2021.jpeg/revision/latest?cb=20210209043551",
+    "description": "A baseball bat. Non-lethal. Can be used to knock an individual unconscious.",
+    "type": [
+      "melee"
+    ],
+    "rarity": "rare",
+    "capacity": "N/A",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": false,
+    "smuggleItem": true,
+    "tags": [
+      "non-lethal"
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "TAC-4 AR Desert",
+    "image": "https://static.wikia.nocookie.net/hitman/images/3/35/TAC-4_AR_Desert_%282021%29.png/revision/latest?cb=20210310175747",
+    "description": "A tan variant of the TAC-4 AR. A modern bullpup assault rifle. Fully-automatic, accurate and stable with excellent damage.",
+    "type": [
+      "firearm",
+      "assault rifle"
+    ],
+    "rarity": "epic",
+    "capacity": "30",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "suppressor"
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "RS-15",
+    "image": "https://static.wikia.nocookie.net/hitman/images/4/46/RS-15_HITMAN2021.jpeg/revision/latest?cb=20210305190445",
+    "description": "A modern edition of a widely-dsitributed assault rifle. Fully-automatic. Comes with a suppressor.",
+    "type": [
+      "firearm",
+      "assault rifle"
+    ],
+    "rarity": "epic",
+    "capacity": "30",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "suppressor"
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "Shashka A33 Gold",
+    "image": "https://static.wikia.nocookie.net/hitman/images/8/8c/ShashkaA33Gold.png/revision/latest?cb=20220826140836",
+    "description": "A golden variant of the Shashka A33. A modern assault rifle. Fully automatic. High damage but only semi-accurate.",
+    "type": [
+      "firearm",
+      "assault rifle"
+    ],
+    "rarity": "epic",
+    "capacity": "30",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": false,
+    "tags": [
+      "none"
+    ],
+    "gearSlots": 2
+  },
+  {
+    "name": "Shashka A33 Covert",
+    "image": "https://static.wikia.nocookie.net/hitman/images/e/ea/Shashka_A33_Covert.png/revision/latest?cb=20220907170930",
+    "description": "A covert variant of the Shashka A33. A modern assault rifle. Fully-automatic. High damage but only semi-accurate.",
+    "type": [
+      "firearm",
+      "assault rifle"
+    ],
+    "rarity": "rare",
+    "capacity": "30",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "suppressor"
+    ],
+    "gearSlots": 3
+  },
+  {
+    "name": "Shashka A33 H",
+    "image": "https://static.wikia.nocookie.net/hitman/images/8/86/Shashka_A33_H_2021.png/revision/latest?cb=20211005150604",
+    "description": "A modern assault rifle. Fully-automatic. High damage but only semi-accurate.",
+    "type": [
+      "firearm",
+      "assault rifle"
+    ],
+    "rarity": "rare",
+    "capacity": "30",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "none"
+    ],
+    "gearSlots": 3
+  },
+  {
+    "name": "TAC-4 S/A",
+    "image": "https://static.wikia.nocookie.net/hitman/images/e/e8/TAC-4_SA_%282021%29.png/revision/latest?cb=20210303103050",
+    "description": "A modern bullpup battle rifle. Semi-automatic. Accurate, with good range and excellent damage.",
+    "type": [
+      "firearm",
+      "assault rifle"
+    ],
+    "rarity": "rare",
+    "capacity": "30",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "suppressor"
+    ],
+    "gearSlots": 3
+  },
+  {
+    "name": "TAC-4 S/A Jungle",
+    "image": "https://static.wikia.nocookie.net/hitman/images/5/57/TAC-4_S-A_Jungle_HITMAN2021.jpeg/revision/latest?cb=20210315192116",
+    "description": "A unique \"Jungle\" variant of the TAC-4 S/A. Semi-automatic, accurate, and has a good range with excellent damage. Comes with a suppressor.",
+    "type": [
+      "firearm",
+      "assault rifle"
+    ],
+    "rarity": "rare",
+    "capacity": "30",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "suppressor"
+    ],
+    "gearSlots": 3
+  },
+  {
+    "name": "TAC-4 AR Stealth",
+    "image": "https://static.wikia.nocookie.net/hitman/images/a/a6/TAC-4_AR_Stealth_HITMAN2021.jpeg/revision/latest?cb=20210319032928",
+    "description": "A modern bullpup assault rifle. Fully-automatic, accurate and stable with excellent damage. Comes with a suppressor.",
+    "type": [
+      "firearm",
+      "assault rifle"
+    ],
+    "rarity": "rare",
+    "capacity": "30",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "suppressor"
+    ],
+    "gearSlots": 3
+  },
+  {
+    "name": "Shashka A33",
+    "image": "https://static.wikia.nocookie.net/hitman/images/c/c3/ShashkaA33.png/revision/latest?cb=20220907170704",
+    "description": "A modern assault rifle. Fully-automatic. High damage but only semi-accurate.",
+    "type": [
+      "firearm",
+      "assault rifle"
+    ],
+    "rarity": "common",
+    "capacity": "30",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": false,
+    "tags": [
+      "none"
+    ],
+    "gearSlots": 5
+  },
+  {
+    "name": "Sieger AR552 Tactical",
+    "image": "https://static.wikia.nocookie.net/hitman/images/6/6c/Sieger_AR552_Tactical.png/revision/latest?cb=20210129154512",
+    "description": "A tactical assault rifle with a 30 round magazine.",
+    "type": [
+      "firearm",
+      "assault rifle"
+    ],
+    "rarity": "common",
+    "capacity": "30",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "none"
+    ],
+    "gearSlots": 4
+  },
+  {
+    "name": "Fusil G2",
+    "image": "https://static.wikia.nocookie.net/hitman/images/2/26/Fusil_G2_HITMAN2021.jpeg/revision/latest?cb=20210306174312",
+    "description": "A French-made assault rifle. Fully automatic.",
+    "type": [
+      "firearm",
+      "assault rifle"
+    ],
+    "rarity": "common",
+    "capacity": "30",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": false,
+    "tags": [
+      "none"
+    ],
+    "gearSlots": 5
+  },
+  {
+    "name": "Fusil G1-4/C",
+    "image": "https://static.wikia.nocookie.net/hitman/images/9/93/Fusil_G1-4_C_HITMAN2021.jpeg/revision/latest?cb=20210314003127",
+    "description": "A French assault rifle. Chambered for 5.56mm. Built for close-quarters combat.",
+    "type": [
+      "firearm",
+      "assault rifle"
+    ],
+    "rarity": "common",
+    "capacity": "30",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": false,
+    "tags": [
+      "none"
+    ],
+    "gearSlots": 4
+  },
+  {
+    "name": "Fusil G1-4",
+    "image": "https://static.wikia.nocookie.net/hitman/images/3/36/Fusil_G1-4_HITMAN2021.jpeg/revision/latest?cb=20210312175956",
+    "description": "The Fusil G2's predecessor. Widely exported. Chambered for 5.56mm.",
+    "type": [
+      "firearm",
+      "assault rifle"
+    ],
+    "rarity": "common",
+    "capacity": "30",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": false,
+    "tags": [
+      "none"
+    ],
+    "gearSlots": 5
+  },
+  {
+    "name": "TAC-4 AR Auto",
+    "image": "https://static.wikia.nocookie.net/hitman/images/4/4f/TAC-4_AR_Auto_HITMAN2021.jpeg/revision/latest?cb=20210314015824",
+    "description": "A modern bullpup assault rifle. Fully automatic. Accurate, with a high fire rate and excellent damage.",
+    "type": [
+      "firearm",
+      "assault rifle"
+    ],
+    "rarity": "common",
+    "capacity": "30",
+    "twoHanded": true,
+    "concealable": false,
+    "friskHidden": false,
+    "illegalItem": true,
+    "smuggleItem": true,
+    "tags": [
+      "none"
+    ],
+    "gearSlots": 4
+  }
+]
